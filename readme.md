@@ -51,3 +51,8 @@ and then finally
 ```bash
 python manage.py runserver
 ```
+
+## SCREENSHOTS
+![Login Page](./screenshots/login.png)
+![Success Page](./screenshots/success.png)
+![Django Admin Credentials Page](./screenshots/credentials.png)
